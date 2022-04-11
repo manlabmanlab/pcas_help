@@ -1,10 +1,15 @@
 help con drpacaso4pvS
 help con stringwa5
 help con bool
-int byinterfiles{
-    b[i]=c[i];
-    c[i]=a[i+1,];
+array a[7] = [1,2,-8,5,78,12,-32];
+int ord=1;
+main byinterfiles{
+    b[i]=c[i+1];
+    c[i+1]=a[i];
     a[i]=b[i];
+    for(i=0;i-1,i++){
+    
+    }
 
 
 }
