@@ -8,6 +8,8 @@ main byinterfiles{
     c[i+1]=a[i];
     a[i]=b[i];
     for(i=0;i-1,i++){
+        for(j=1;i<3,j--){
+        }
     
     }
     
