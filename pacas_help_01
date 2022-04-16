@@ -10,6 +10,8 @@ main byinterfiles{
     for(i=0;i-1,i++){
     
     }
+    
+    return 0;
 
 
 }
